@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">yoga2</string>
+    <string name="im1">TADASANA</string>
+    <string name="im2">UTKATSANA</string>
+    <string name="im3">VIRBHADRASANA2</string>
+    <string name="im4">TRIKONASANA</string>
+    <string name="im5">VRIKSASANA</string>
+    <string name="im6">U_DHANURASANA</string>
+</resources>
